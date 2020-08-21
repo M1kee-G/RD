@@ -1,2 +1,0 @@
-# RubberDucky
-THE RubberDuckyPool :)
