@@ -1,6 +1,7 @@
 {
-"name": "RubberDucky",
-"description": "Grab your floaties!",
-"ticker": "RDP",
-"homepage": "https://github.com/M1kee-G/RubberDucky"
-} 
+  "name": "RubberDucky",
+  "ticker": "RDP",
+  "description": "Stack ADA and Chill",
+  "homepage": "https://github.com/M1kee-G/RubberDucky",
+  "nonce": "1598021612"
+}
